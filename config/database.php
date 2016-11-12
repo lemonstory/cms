@@ -117,9 +117,9 @@ return [
         'cluster' => false,
 
         'default' => [
-            'host'     => '127.0.0.1',
+            'host'     => '10.199.235.146',
             'password' => null,
-            'port'     => 6379,
+            'port'     => 6380,
             'database' => 0,
         ],
 
