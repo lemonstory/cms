@@ -54,11 +54,11 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => 'localhost',
-            'port'      => '',
-            'database'  => 'database',
+            'host'      => '10.105.18.17',
+            'port'      => '3307',
+            'database'  => 'test',
             'username'  => 'root',
-            'password'  => '',
+            'password'  => 'vipshop',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
