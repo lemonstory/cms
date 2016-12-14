@@ -1,0 +1,6 @@
+plugin:
+    name: 'lin.demo::lang.plugin.name'
+    description: 'lin.demo::lang.plugin.description'
+    author: Lin
+    icon: oc-icon-adjust
+    homepage: ''
