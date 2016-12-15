@@ -14,6 +14,7 @@ php-errors.log
 sftp-config.json
 selenium.php
 composer.lock
+config/database.php
 
 # for netbeans
 nbproject
